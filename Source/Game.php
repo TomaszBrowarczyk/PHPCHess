@@ -12,6 +12,8 @@ namespace PHPChess;
  * Description of Game
  *
  * @author tbrowarczyk
+ * 
+ * https://github.com/jhlywa/chess.js
  */
 class Game {
     //put your code here
