@@ -13,6 +13,7 @@ namespace PHPChess\Exceptions;
  *
  * @author tbrowarczyk
  */
+
 class Color {
     //put your code here
     
